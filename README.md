@@ -8,3 +8,6 @@ Here you can find the ROS package uploaded that contains the necesssary files fo
 </span>**
 
 Below is a gif of the simulation in gazebo.
+
+![Alt Text](finalGIF.gif)
+
